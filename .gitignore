@@ -1,0 +1,19 @@
+# Local credentials
+config.txt
+.env
+.env.*
+!.env.example
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+# Frontend
+node_modules/
+.next/
+out/
+# Local files
+.DS_Store
+.idea/
+.vscode/
